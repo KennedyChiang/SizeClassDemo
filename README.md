@@ -14,6 +14,11 @@
 
 `self.traitCollection` 跟 `previousTraitCollection` 相反
 
+為什麼不用 `Visual Format Language`?
+主要是因為再 `xcode 9`, `iOS 11` 有點問題，參考資訊如下：
+https://stackoverflow.com/questions/46576358/uiscrollview-not-scrolling-in-ios11
+
+
 ### 參考資料
 > ## Default Size Classes for Different Devices
 
